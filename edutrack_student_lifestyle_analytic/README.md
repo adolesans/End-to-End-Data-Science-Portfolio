@@ -173,6 +173,6 @@ MIT License - Lihat file LICENSE untuk detail
 
 ## Author
 
-Created for Dicoding Bootcamp Final Project - January 2026
+Created by Annisa, Haekal, Ragil, Atthaurahman
 
 Dataset: [Kaggle Student Lifestyle Dataset](https://www.kaggle.com/datasets/akmaldwiputra/student-lifestyle-dataset)
